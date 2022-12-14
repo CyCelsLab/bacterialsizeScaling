@@ -1,0 +1,11 @@
+cff-version: 1.1.0
+message: "The code is developed as part of a manuscript submitted for review. If you use the software please cite us as below."
+authors:
+  - family-names: Khatri
+    given-names: Dhruv
+ - family-names: Athale
+    given-names: Chaitanya
+    orcid: https://orcid.org/0000-0000-0000-0000
+title: CyCelsLab/bacterialsizeScaling: Code for bacterial cell size analysis for allometry
+version: image-analysis
+date-released: 2022-12-13
