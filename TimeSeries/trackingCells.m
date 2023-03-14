@@ -28,6 +28,7 @@ all_data.Area = ones(height(all_data), 1);
 finfo = imfinfo(filename); 
 makemovie(outFolder, 1:length(finfo), filename, outmat)
 %% Required functions 
+% Function developed in Chaphalkar et al., 2021
 function [tracks,objno,outmat] = DICOT_tracking(outfolder, savestats, micron_search_radius, scal_fact, interval, distUnit, timeUnit)
 %DICOT_TRACKING tracking code for DICOT, modified version of
 % trackfil_dicot
