@@ -15,3 +15,9 @@ Code relating to the scaling of bacterial cell size
 3. A figure window will open with cell overlays detected using the pipeline described in the paper.
 4. Output will be an overlay of detections and length and width of selected cell contours in pixel units.
 5. A final figure of a L & W plot and histogram of Lengths and widhts will show up.
+
+
+### List of toolboxes required
+1. Image Processing Toolbox
+2. Curve Fitting Toolbox
+3. Partial Differential Equation Toolbox
