@@ -17,13 +17,13 @@
 
 %% Cell Tracking 
 outFolder = './'; 
-filename  =  'ROI1 copy.tif';
+filename  =  'ROI1-time.tif';
 trackingThresh = 10; 
 timeInterval = 1;
 
 all_data.Area = ones(height(all_data), 1);
 [tracks, obno, outmat] = DICOT_tracking(outFolder, all_data, ...
-    trackingThresh, timeInteval ...
+    trackingThresh, timeInterval ...
     , 'um', 's'); 
 finfo = imfinfo(filename); 
 makemovie(outFolder, 1:length(finfo), filename, outmat)
