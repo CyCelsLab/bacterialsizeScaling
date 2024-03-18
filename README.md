@@ -22,5 +22,6 @@ Code relating to the scaling of bacterial cell size
 2. Curve Fitting Toolbox
 3. Partial Differential Equation Toolbox
 
-In case this code is used in any settings please refer to our paper that corresponds to this:
-Tanvi Kale, Dhruv Khatri and Chaitanya A Athale (2023) Allometry of Escherichia coli surface area with volume: effect of size variability, filamentation and division dynamics. Phys. Biol. 20 046007. DOI:10.1088/1478-3975/acdcda
+### REFERENCE:
+In case this code is used in any settings please refer to our paper that corresponds to this
+# Tanvi Kale, Dhruv Khatri and Chaitanya A Athale (2023) Allometry of Escherichia coli surface area with volume: effect of size variability, filamentation and division dynamics. Phys. Biol. 20 046007. DOI:10.1088/1478-3975/acdcda
